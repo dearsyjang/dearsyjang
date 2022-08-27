@@ -57,8 +57,6 @@
  
   <br>
   <br>
-  <hr>
-  <br />
 
 <!--
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=buefy)
