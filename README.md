@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **dearsyjang/dearsyjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center>
+            ### Hi there 👋
 ### 🏹 Technology STACK 🏹
-</div>
-<p align ="center">
+            <p align ="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
@@ -56,3 +56,5 @@ Here are some ideas to get you started:
 ###  :mailbox: Contact
 
 <a href="mailto:dearsyjang@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+
+</div>
