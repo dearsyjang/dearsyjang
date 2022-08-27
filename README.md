@@ -1,8 +1,6 @@
-<div align=center>
-  
+ <div align=center>
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SooYoung&fontSize=70&fontAlignY=50&animation=twinkling)
-            
-  
+
   <h3> 🌳 Tech Stack 🌳 </h3>
   <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -60,8 +58,12 @@
   
   <br>
   <br>
-   
-  <div>
- </div>
+  
+    
+  <div align="center">
 </div>
+    
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact)](https://github.com/leemember/github-readme-stats)
+
 </div>
