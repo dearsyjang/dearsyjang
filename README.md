@@ -60,9 +60,9 @@
   <hr>
   <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=buefy)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=buefy)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact)](https://github.com/dearsyjang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact)](https://github.com/dearsyjang/github-readme-stats)-->
 
 
 </div>
