@@ -1,8 +1,8 @@
- <div align=center>
+<div align=center>
+  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SooYoung&fontSize=70&fontAlignY=50&animation=twinkling)
 
   <h3> 🌳 Tech Stack 🌳 </h3>
-  <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
   <br>
@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
-  </div>
             
   <br>
   <br>
@@ -55,15 +54,14 @@
   <a href=""><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="mailto:dearsyjang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dearsyjang@gmail.com.com""/></a>
  <a href="mailto:dearsyjang@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dearsyjang@naver.com"/></a>
-  
+ 
   <br>
   <br>
-  
-    
-  <div align="center">
-</div>
-    
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=dracula)
+  <hr>
+  <br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact)](https://github.com/leemember/github-readme-stats)
+
 
 </div>
