@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
 
-![여러분's GitHub stats](https://github-readme-stats.vercel.app/api?username=여러분의 깃 닉네임&show_icons=true&theme=radical)
+![SooYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=radical)
 
 
 
@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 
 ###  :mailbox: Contact
 
-<a href="mailto:여러분의 지메일주소" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+<a href="mailto:dearsyjang@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
