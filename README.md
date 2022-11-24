@@ -3,6 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SooYoung&fontSize=70&fontAlignY=50&animation=twinkling)
 
   <h3> 🌳 Tech Stack 🌳 </h3>
+  <h5>[BACK-END]<h5>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
   <br>
