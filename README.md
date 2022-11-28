@@ -22,13 +22,11 @@
             
   <br>
   <br>
-            
   <h3> 🌱 Studying 🌱 </h3>
   <div>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-
   <br>
 <!--   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white" />
@@ -40,8 +38,6 @@
   <img src="https://img.shields.io/badge/mySql-4479A1?style=flat-square&logo=mySql&logoColor=white"/>-->
   </div>
             
-  <br>
-  <br>
             
   <h3> 🛠️ Cowork Tools 🛠️</h3>
   <div>
@@ -55,10 +51,9 @@
   </div>     
             
   <br>
-  <br>
   
   <h3> 🌊 Just Keep Swimming 🌊 </h3>
-  <a href=""><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://jsyportfolio.notion.site/f7ea0b17338f4cd3a17d52e0736c7f28"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="mailto:dearsyjang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dearsyjang@gmail.com.com""/></a>
  <a href="mailto:dearsyjang@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dearsyjang@naver.com"/></a>
  
