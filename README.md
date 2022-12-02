@@ -61,6 +61,6 @@
   <hr>
 
 <img align="left" width="450" height="400" src="https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=buefy" /></a>
-<img align="right" width="300" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact" /></a>
+<img align="right" width="350" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact" /></a>
 
 </div>
