@@ -60,7 +60,7 @@
   <br>
   <hr>
 
-<img align="left" style="width: 300px height:200px" src="https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=buefy" /></a>
-<img align="right" style="width: 300px height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact" /></a>
+<img align="left" width="500" height="400" src="https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=buefy" /></a>
+<img align="right" width="300" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact" /></a>
 
 </div>
