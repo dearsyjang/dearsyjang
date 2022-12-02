@@ -55,12 +55,7 @@
   <a href="https://jsyportfolio.notion.site/f7ea0b17338f4cd3a17d52e0736c7f28"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="mailto:dearsyjang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dearsyjang@gmail.com.com""/></a>
  <a href="mailto:dearsyjang@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dearsyjang@naver.com"/></a>
- 
-  <br>
-  <br>
   <hr>
-
-<img align="left" width="450" height="400" src="https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=buefy" /></a>
-<img align="right" width="350" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact" /></a>
-
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=buefy" /></a>
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact" /></a>
 </div>
