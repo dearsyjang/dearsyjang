@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SooYoung&fontSize=70&fontAlignY=50&animation=twinkling)
 
-  <h3> 🌳 Tech Stack 🌳 </h3>
+ <h3> 🌳 Tech Stack 🌳 </h3>
  <h5>[FRONT-END]<h5>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>  
@@ -60,9 +60,7 @@
   <br>
   <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact)](https://github.com/dearsyjang/github-readme-stats)
-
-
+<img align="left" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=buefy" /></a>
+<img align="right" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact" /></a>
 
 </div>
