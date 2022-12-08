@@ -51,4 +51,6 @@
   <hr>
 <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=buefy" /></a>
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact" /></a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 </div>
