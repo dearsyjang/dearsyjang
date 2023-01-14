@@ -56,6 +56,6 @@
 
   <hr>
 <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=solarized-light" /></a>
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact" /></a>
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact&theme=solarized-light" /></a>
 </div>
 
