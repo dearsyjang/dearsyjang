@@ -1,13 +1,13 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SooYoung&fontSize=70&fontAlignY=50&animation=twinkling)
-  <h4> 🌊 About ME </h4>
-    <h3></h3>
+  <div align="center">
+  <h4> 🌊 This is Me 🌊</h4>
   <a href="https://jsyportfolio.notion.site/f7ea0b17338f4cd3a17d52e0736c7f28"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="mailto:dearsyjang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dearsyjang@gmail.com.com""/></a>
  <a href="mailto:dearsyjang@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dearsyjang@naver.com"/></a>
   
   <h4> 🌳 Tech Stack 🌳 </h4>
   <h5>[ FRONT-END ]</h5>
-  <p align="left">
+  <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -39,11 +39,11 @@
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mySql-4479A1?style=flat-square&logo=mySql&logoColor=white"/> -->
-  </div>
+  <img src="https://img.shields.io/badge/mySql-4479A1?style=flat-square&logo=mySql&logoColor=white"/>
+  </div> --!>
             
             
-  <h3> 🛠️ Cowork Tools 🛠️</h3>
+  <h4> 🛠️ Cowork Tools 🛠️</h4>
   <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
