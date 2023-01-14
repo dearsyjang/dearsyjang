@@ -1,6 +1,6 @@
   <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SooYoung&fontSize=70&fontAlignY=50&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=SooYoung&fontSize=70&fontAlignY=50&animation=twinkling)
   
   <h4> 🌊 This is Me 🌊</h4>
   <a href="https://jsyportfolio.notion.site/f7ea0b17338f4cd3a17d52e0736c7f28"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
