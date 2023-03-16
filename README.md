@@ -2,12 +2,12 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=SooYoung&fontSize=70&fontAlignY=50&animation=twinkling)
   
-  <h4> 🌊 This is Me 🌊</h4>
+  <h4> 🌊 This is Me </h4>
   <a href="https://jsyportfolio.notion.site/f7ea0b17338f4cd3a17d52e0736c7f28"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="mailto:dearsyjang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dearsyjang@gmail.com.com""/></a>
  <a href="mailto:dearsyjang@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dearsyjang@naver.com"/></a>
   
-  <h4> 🌳 Tech Stack 🌳 </h4>
+  <h4> 🌳 Tech Stack  </h4>
   <h5>[ FRONT-END ]</h5>
   <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -30,7 +30,7 @@
             
   <br>
   
-<h4> 🌱 Studying 🌱 </h4>
+<h4> 🌱 Studying  </h4>
 <!--   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
@@ -43,7 +43,7 @@
 
             
             
-  <h4> 🛠️ Cowork Tools 🛠️</h4>
+  <h4> 🛠️ Cowork Tools </h4>
   <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
