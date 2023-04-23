@@ -1,14 +1,14 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=SooYoung&fontSize=70&fontAlignY=50&animation=twinkling)
   
-**🌊 This is Me 🌊**
+**🌊 This is Me**
 <div>
     <a href="https://jsyportfolio.notion.site/f7ea0b17338f4cd3a17d52e0736c7f28"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href="mailto:dearsyjang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dearsyjang@gmail.com.com""/></a>
     <a href="mailto:dearsyjang@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:dearsyjang@naver.com"/></a>
 </div>
   
-  <h4> 🌳 Tech Stack 🌳 </h4>
+  <h4> 🌳 Tech Stack </h4>
     <div>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-F68212?style=for-the-badge&logo=CSS3&logoColor=white"/>  
@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
     </div>
   
-  <h4> 🌱 Studying 🌱 </h4>
+  <h4> 🌱 Studying </h4>
         <!--<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
@@ -41,7 +41,7 @@
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
       </div>
             
-  <h4> 🛠️ Cowork Tools 🛠️ </h4>
+  <h4> 🛠️ Cowork Tools </h4>
     <div>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
@@ -54,7 +54,7 @@
       <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"/>     
     </div>
  
-  #### 💻 Projects 💻
+  #### 💻 Projects 
   | 이름                                            | 내용                          | 기간                          |
   | ----------------------------------------------- | ----------------------------- | ----------------------------- |
   | [Movie Night](https://github.com/dearsyjang/MovieNight) | 영화 추천 커뮤니티 서비스 | 2022.05.20. ~ 2022.05.26. (1주) |
