@@ -63,6 +63,6 @@
   | [올라오라곰](https://github.com/dearsyjang/ClimbingBear) | 등산 모바일 앱 서비스 | 2022.10.11. ~ 2022.11.18. (6주) |
       
   <div>
-  <src="https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=swift" /></a>
-  <src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact&theme=swift" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=swift" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact&theme=swift" /></a>
   </div>
