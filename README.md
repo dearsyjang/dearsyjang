@@ -61,6 +61,8 @@
   | [Dear ME](https://github.com/dearsyjang/DearMe) | WebRTC 기반 취업준비생을 위한 심리 케어 서비스 | 2022.07.05. ~ 2022.08.19. (7주) |
   | [Be Travelic 여행이 체질](https://github.com/dearsyjang/BeTravelic) | 빅데이터 추천 기반 국내 여행지 추천 서비스 | 2022.8.22. ~ 2022.10.07. (7주)  |
   | [올라오라곰](https://github.com/dearsyjang/ClimbingBear) | 등산 모바일 앱 서비스 | 2022.10.11. ~ 2022.11.18. (6주) |
+  
+  <br>
       
   <div>
   <img src="https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=swift" /></a>
