@@ -7,8 +7,12 @@
     <a href="mailto:dearsyjang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dearsyjang@gmail.com.com""/></a>
     <a href="mailto:dearsyjang@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:dearsyjang@naver.com"/></a>
 </div>
-  
-  <h3>🌳 Tech Stack</h3>
+
+### ✨ Career & Education
+- 삼성 청년 소프트웨어 아카데미(Samsung Software Academy for Youth / SSAFY) 7th Python Track (2022. 01 ~ 2022. 12)
+- 공공데이터 청년 인턴 (2020.09 ~ 2020.12)
+      
+### 🌳 Tech Stack
     <div>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-F68212?style=for-the-badge&logo=CSS3&logoColor=white"/>  
@@ -29,7 +33,7 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
     </div>
   
-  <h3>🌱 Currently Learning</h3>
+### 🌱 Currently Learning
         <!--<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
@@ -41,7 +45,7 @@
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
       </div>
             
-  <h3>🛠️ Cowork Tools</h3>
+### 🛠️ Cowork Tools
     <div>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
@@ -53,7 +57,7 @@
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"/>     
     </div>
- 
+
   ### 💻 Projects 
   | 이름                                            | 내용                          | 기간                          |
   | ----------------------------------------------- | ----------------------------- | ----------------------------- |
