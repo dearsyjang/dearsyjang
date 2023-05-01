@@ -57,7 +57,7 @@
   ### ✨ Career & Education
   | 이름                                            | 내용                          | 기간                          |
   | ----------------------------------------------- | ----------------------------- | ----------------------------- |
-  | 삼성 청년 소프트웨어 아카데미 SSAFY<br>(Samsung Software Academy for Youth) | 7th Python Track | 2022.01. ~ 2022. 12. |
+  | 삼성 청년 소프트웨어 아카데미 SSAFY<br>(Samsung Software Academy for Youth) | 7기 Python Track | 2022.01. ~ 2022. 12. |
   | 공공데이터 청년 인턴 <br>(행정안전부, 한국지능정보사회진흥원) | 공공데이터 직접사업부 | 2020.09. ~ 2020.12. |
       
   ### 💻 Projects 
