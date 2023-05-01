@@ -1,7 +1,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=SooYoung&fontSize=70&fontAlignY=50&animation=twinkling)
   
-<h3>😊 This is Me</h3>
+<h3>😊 Hi! I'm SooYoung</h3>
 <div>
     <a href="https://jsyportfolio.notion.site/f7ea0b17338f4cd3a17d52e0736c7f28"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href="mailto:dearsyjang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dearsyjang@gmail.com.com""/></a>
