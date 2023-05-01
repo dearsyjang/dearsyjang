@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
     </div>
   
-  <h3>🌱 Studying</h3>
+  <h3>🌱 Currently Learning</h3>
         <!--<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
@@ -69,4 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact&theme=swift" /></a>
   </div>
   
+  <br>
+      
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdearsyjang&count_bg=%23DCD6F7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
