@@ -7,10 +7,6 @@
     <a href="mailto:dearsyjang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dearsyjang@gmail.com.com""/></a>
     <a href="mailto:dearsyjang@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:dearsyjang@naver.com"/></a>
 </div>
-
-### ✨ Career & Education
-- 삼성 청년 소프트웨어 아카데미(Samsung Software Academy for Youth / SSAFY) 7th Python Track (2022. 01 ~ 2022. 12)
-- 공공데이터 청년 인턴 (2020.09 ~ 2020.12)
       
 <h3> 🌳 Tech Stack</h3>
     <div>
@@ -57,7 +53,13 @@
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"/>     
     </div>
-
+ 
+  ### ✨ Career & Education
+  | 이름                                            | 내용                          | 기간                          |
+  | ----------------------------------------------- | ----------------------------- | ----------------------------- |
+  | 삼성 청년 소프트웨어 아카데미 SSAFY<br>(Samsung Software Academy for Youth) | 7th Python Track | 2022.01. ~ 2022. 12. |
+  | 공공데이터 청년 인턴 <br>(행정안전부, 한국지능정보사회진흥원) | 공공데이터 직접사업부 | 2020.09. ~ 2020.12. |
+      
   ### 💻 Projects 
   | 이름                                            | 내용                          | 기간                          |
   | ----------------------------------------------- | ----------------------------- | ----------------------------- |
