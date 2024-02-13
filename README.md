@@ -6,6 +6,7 @@
     <a href="https://jsyportfolio.notion.site/f7ea0b17338f4cd3a17d52e0736c7f28"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href="mailto:dearsyjang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dearsyjang@gmail.com.com""/></a>
     <a href="mailto:dearsyjang@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:dearsyjang@naver.com"/></a>
+    <a href="https://syoungveloper.notion.site/Becoming-A-Developer-Syoung-571b032da1b2481c86f5796d1a4330fe?pvs=4"><img src="https://img.shields.io/badge/-TechBlog-F875AA?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </div>
       
 <h3> 🌳 Tech Stack</h3>
